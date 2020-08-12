@@ -2,8 +2,6 @@
 
 This repositary describes the work that was published for ACL paper, "That is a Known Lie: Detecting Previously Fact-Checked Claims" (see citation bellow). The paper focuses on the fact-checking task of lcaims by using previosuly fact-checked claims. 
 
-This repository describes the work that was published in two papers (see citations below) on predicting the factuality and political bias in news media. Each paper proposes a different set of engineered features collected from sources of information related to the target media.
-
 ```
 @inproceedings{shaar-etal-2020-known,
     title = "That is a Known Lie: Detecting Previously Fact-Checked Claims",
