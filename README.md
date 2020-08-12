@@ -1,6 +1,6 @@
 # That-is-a-Known-Lie
 
-This repositary describes the work that was published for ACL paper, "That is a Known Lie: Detecting Previously Fact-Checked Claims" (see citation bellow). The paper focuses on the fact-checking task of lcaims by using previosuly fact-checked claims. 
+This repositary describes the work that was published for ACL paper, "That is a Known Lie: Detecting Previously Fact-Checked Claims" (see citation bellow). The paper focuses on the fact-checking task of lcaims by using previosuly fact-checked claims. You can find the paper in this link, https://www.aclweb.org/anthology/2020.acl-main.332.pdf. 
 
 ```
 @inproceedings{shaar-etal-2020-known,
